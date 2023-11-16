@@ -1,0 +1,12 @@
+D:\Belgeler\Visual Studio 2022\Projects\DosyaKopyala\DosyaKopyala\bin\Debug\DosyaKopyala.exe.config
+D:\Belgeler\Visual Studio 2022\Projects\DosyaKopyala\DosyaKopyala\bin\Debug\DosyaKopyala.exe
+D:\Belgeler\Visual Studio 2022\Projects\DosyaKopyala\DosyaKopyala\bin\Debug\DosyaKopyala.pdb
+D:\Belgeler\Visual Studio 2022\Projects\DosyaKopyala\DosyaKopyala\obj\Debug\DosyaKopyala.csproj.AssemblyReference.cache
+D:\Belgeler\Visual Studio 2022\Projects\DosyaKopyala\DosyaKopyala\obj\Debug\DosyaKopyala.csproj.SuggestedBindingRedirects.cache
+D:\Belgeler\Visual Studio 2022\Projects\DosyaKopyala\DosyaKopyala\obj\Debug\DosyaKopyala.kopyalaFrm.resources
+D:\Belgeler\Visual Studio 2022\Projects\DosyaKopyala\DosyaKopyala\obj\Debug\DosyaKopyala.Properties.Resources.resources
+D:\Belgeler\Visual Studio 2022\Projects\DosyaKopyala\DosyaKopyala\obj\Debug\DosyaKopyala.csproj.GenerateResource.cache
+D:\Belgeler\Visual Studio 2022\Projects\DosyaKopyala\DosyaKopyala\obj\Debug\DosyaKopyala.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2022\Projects\DosyaKopyala\DosyaKopyala\obj\Debug\DosyaKopyala.exe
+D:\Belgeler\Visual Studio 2022\Projects\DosyaKopyala\DosyaKopyala\obj\Debug\DosyaKopyala.pdb
+D:\Belgeler\Visual Studio 2022\Projects\DosyaKopyala\DosyaKopyala\obj\Debug\DosyaKopyala.HakkindaFrm.resources
